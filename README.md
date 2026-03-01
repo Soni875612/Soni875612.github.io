@@ -108,7 +108,7 @@ Comprehensive retail data analysis uncovering sales trends, customer behavior pa
 
 | | |
 |---|---|
-| 📧 Email | Available on portfolio |
+| 📧 Email | soni876556@gmail.com |
 | 📞 Phone | 8765568506 |
 | 💼 LinkedIn | [soni-devi-131a9938b](https://linkedin.com/in/soni-devi-131a9938b) |
 | 🐙 GitHub | [Soni875612](https://github.com/Soni875612) |
