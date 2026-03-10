@@ -52,6 +52,14 @@ Comprehensive retail data analysis uncovering sales trends, customer behavior pa
 
 ---
 
+### 🔥 [Fire Prediction](https://github.com/Soni875612/Fire_Prediction)
+
+> `Python` `Machine Learning` `Data Analysis`
+
+Developed a machine learning model to predict the likelihood of fire incidents using environmental and sensor data. Performed data preprocessing, feature engineering, and trained classification models to improve prediction accuracy. Visualized results to identify high-risk areas and assist in preventive measures.
+
+---
+
 ## 🛠️ Skills
 
 **Technical**
@@ -123,3 +131,4 @@ Comprehensive retail data analysis uncovering sales trends, customer behavior pa
 ⭐ Star this repo if you like it!
 
 </div>
+
