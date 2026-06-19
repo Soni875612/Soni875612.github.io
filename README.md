@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-D4A843?style=for-the-badge)](https://soni875612.github.io/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-D4A843?style=for-the-badge)](https://soni875612.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Soni875612-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soni875612)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soni-devi-131a9938b)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-soni__2007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/soni_2007/)
